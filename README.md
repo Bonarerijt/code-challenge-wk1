@@ -120,7 +120,6 @@ git clone git@github.com:Bonarerijt/code-challenge-wk1.git
 [Git] https://bonarerijt.github.io/code-challenge-wk1/
 
 ## Technologies used
-HTML
 Github
 Javascript
 
